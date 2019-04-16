@@ -1,5 +1,5 @@
 
-/* Exerc√≠cio 7 */
+/* ExercÌcio 7 */
 
 const nome = "Diego";
 const idade = 23;
@@ -12,7 +12,7 @@ const usuario = {
 
 console.log(usuario);
 
-/* Exerc√≠cio 1
+/* ExercÌcio 1
 
 
 class Usuario {
@@ -35,7 +35,7 @@ class Admin extends Usuario {
 } */
 
 /*
-2¬∞ EXERC√çCIO 
+2∞ EXERCÕCIO 
 
 const usuarios = [
     { nome: 'Diego', idade: 23, empresa: 'Rocketseat' },
@@ -62,7 +62,7 @@ console.log(calcula);
 
 */
 
-/* // 3¬∞ EXERC√çCIO
+/* // 3∞ EXERCÕCIO
 
 const arr = [1, 2, 3, 4, 5];
 const newArr = arr.map(item => item + 10);
@@ -91,7 +91,7 @@ const promise = () => new Promise((resolve, reject) => resolve());
 
  */
 
-/* // 4¬™ EXERC√çCIO
+/* // 4™ EXERCÕCIO
 
 const empresa = {
     nome: 'Rocketseat',
@@ -115,7 +115,7 @@ function mostraInfo( { nome, idade } ) {
     }
     mostraInfo({ nome: 'Diego', idade: 23 }) */
 
-/* EXERC√çCIO 5
+/* EXERCÕCIO 5
 
 5.1 
 
@@ -154,10 +154,10 @@ console.log(usuario2);
 console.log(usuario3);
 */
 
-/* Exerc√≠cio 6 */
+/* ExercÌcio 6 */
 
 /*
 const usuario = "Diego";
 const idade = 23;
-console.log(`O usu√°rio ${usuario} possui ${idade} anos`);
+console.log(`O usu·rio ${usuario} possui ${idade} anos`);
 */
